@@ -39,7 +39,7 @@ GrubBites, an innovative online food ordering platform, was developed with the g
 
 To run GrubBites on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/project_name`
+1. Clone the repository: `git clone https://github.com/vinit-y/project_name`
 2. Install dependencies: `cd GrubBites && npm install`
 3. Create a `.env` file and add the following environment variables:
    - `MONGO_URI`: URI for your MongoDB database
