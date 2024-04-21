@@ -2,13 +2,6 @@
 
 ## Final Project for INFO6150 32314 Web Design/User Experience Engineering SEC 01 Spring 2023
 
-### Team Members
-1. 002747948 - Anuja Shinde
-2. 002643847 - Vaidehi Tawde
-3. 002743210 - Vinit Yadav
-4. 002673782 - Akshit Saxena
-5. 002644394 - Anuja Surana
-
 ## Overview
 
 GrubBites, an innovative online food ordering platform, was developed with the goal of enhancing user experience and simplifying the food ordering process. The project focuses on streamlining the order placement, providing users with exclusive offers, and making it convenient for both customers and restaurant owners.
