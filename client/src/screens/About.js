@@ -14,7 +14,7 @@ const AboutUs = () => {
         <div className="container mx-auto">
           <h1 className="text-4xl font-bold text-white mb-6">About Us</h1>
           <p className="text-white">
-            Welcome to Grub Bites, where you can get scrumptious cuisine delivered to your house. 
+            Welcome to Grub Bites, where you can get cuisine delivered to your house. 
             Our goal is to eliminate the burden of preparing and eating out 
             so that you may enjoy restaurant-quality meals in the convenience of your own home.
             Our team is made up of enthusiastic foodies who are aware of what it takes to produce a special dining occasion. 
@@ -84,7 +84,6 @@ const AboutUs = () => {
   <div className="container mx-auto">
     <h2 className="text-3xl font-bold mb-6">What Makes This Website Better</h2>
     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-      {/* Replace the following points with your actual unique points */}
       <div className="flex items-start">
         <i className="fas fa-star text-yellow-500 mr-4 text-xl"></i>
         <h6>Fresh and delicious food</h6>

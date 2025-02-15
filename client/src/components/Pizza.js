@@ -33,10 +33,7 @@ export default function Pizza({ pizza }) {
   >
     <div onClick={handleShow} className="cursor-pointer">
       <h1 className="text-xl font-bold mb-2">{pizza.name}</h1>
-      <img
-        src={pizza.image}
-        className="img-fluid rounded w-full h-48 object-cover"
-      />
+      <img src={pizza.image} alt='pizza-img' className="img-fluid rounded w-full h-48 object-cover"/>
     </div>
 
     <div className="flex flex-wrap mt-3">

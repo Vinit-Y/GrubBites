@@ -57,9 +57,9 @@ export const filterPizzas = (searchkey, category) => async (dispatch) => {
       pizza.name.toLowerCase().includes(searchkey)
     );
 
-    if (category != "all") {
+    if (category !== "all") {
       filteredPizzas = response.data.filter(
-        (pizza) => pizza.category.toLowerCase() == category
+        (pizza) => pizza.category.toLowerCase() === category
       );
     }
     // Dispatch an action to indicate that the filtered pizzas were retrieved successfully, passing along the filtered pizzas
