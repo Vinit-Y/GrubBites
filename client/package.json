@@ -7,7 +7,7 @@
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
     "aos": "^2.3.4",
-    "axios": "^1.6.8",
+    "axios": "^1.8.2",
     "bootstrap": "^4.6.0",
     "classnames": "^2.3.2",
     "GrubBites": "file:..",
